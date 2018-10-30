@@ -55,3 +55,27 @@
     color: #777;
 }
 
+html,body{
+    background-color: #777
+}
+
+.card {
+    margin-bottom: 14px;
+    margin-top: 30px;
+    background-color: transparent;
+    border-radius: 30px !important;
+    border: 1px solid #000 !important;
+    border-bottom: 1px solid #000 !important;
+}
+
+.card-header{
+    border-bottom: none;
+}
+
+.titulo {
+    margin-top: 200px;
+}
+
+.btn-link {
+    color: black;
+}
